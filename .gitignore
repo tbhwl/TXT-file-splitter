@@ -1,0 +1,15 @@
+﻿# 运行/测试产物
+config.json
+__pycache__/
+*.pyc
+_selftest/
+_guitest/
+dist/
+build/
+_pyi/
+_build/
+*.spec
+
+# 系统文件
+.DS_Store
+Thumbs.db
